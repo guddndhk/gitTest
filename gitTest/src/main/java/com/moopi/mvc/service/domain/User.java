@@ -18,6 +18,7 @@ public class User {
 	private String abc;
 	private String def;
 	private String abc2;
+	private String no;
 	
 	// 추가정보입력
 	private String userName;			// 회원 이름
