@@ -20,6 +20,8 @@ public class User {
 	private String abc2;
 	private String no;
 	
+	
+	private String yes;
 	// 추가정보입력
 	private String userName;			// 회원 이름
 	private String gender;				// 성별 - 남, 녀
