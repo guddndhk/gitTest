@@ -28,6 +28,7 @@ public class Flash {
 	private int flashMapY;			//번개무피 좌표Y
 	private int test;
 	private int test2;
+	private int test3;
 	
 	public Flash() {
 		
