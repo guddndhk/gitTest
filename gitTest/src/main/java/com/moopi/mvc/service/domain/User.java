@@ -17,6 +17,7 @@ public class User {
 	private String joinPath;			// 가입경로 - 자사몰, 구글, 네이버, 카카오
 	private String abc;
 	private String def;
+	private String abc2;
 	
 	// 추가정보입력
 	private String userName;			// 회원 이름
