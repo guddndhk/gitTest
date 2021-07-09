@@ -44,6 +44,9 @@ public class User {
 	private int interestThird;			// 관심사3
 	private Date regDate;				// 가입일자
 	
+	private int zzz;
+	private int zzzz;
+	private int zzzzzz;
 	// 유저롤
 	private String userRole;			// 유저Role - 관리자, 정상회원, 블랙회원, 탈퇴회원, 탈퇴복구회원
 
