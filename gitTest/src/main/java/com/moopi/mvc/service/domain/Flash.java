@@ -26,6 +26,7 @@ public class Flash {
 	private int flashInterest;		//번개무피 관심사
 	private int flashMapX;			//번개무피 좌표X
 	private int flashMapY;			//번개무피 좌표Y
+	private int test;
 	
 	public Flash() {
 		
