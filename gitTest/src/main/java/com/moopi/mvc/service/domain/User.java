@@ -15,6 +15,7 @@ public class User {
 	private String userId;				// 화원 아이디
 	private String password;			// 회원 비밀번호
 	private String joinPath;			// 가입경로 - 자사몰, 구글, 네이버, 카카오
+	private String abc;
 	
 	// 추가정보입력
 	private String userName;			// 회원 이름
