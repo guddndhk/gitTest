@@ -33,7 +33,9 @@ public class Flash {
 
 	
 	private int test4;
-
+	private int zzz;
+	private int zzzz;
+	private int zzzzz;
 	private String abcdef;
 
 	
