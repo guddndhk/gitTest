@@ -30,6 +30,9 @@ public class Flash {
 	private int test2;
 	private int test3;
 	
+	
+	private int test4;
+	
 	public Flash() {
 		
 	}
