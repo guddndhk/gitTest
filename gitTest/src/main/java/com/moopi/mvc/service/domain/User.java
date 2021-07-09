@@ -18,6 +18,9 @@ public class User {
 	private String abc;
 	private String def;
 	private String abc2;
+	private String a;
+	private String a2;
+	private String a3;
 	
 	
 	private String yes;
