@@ -48,5 +48,9 @@ public class Flash {
 	public Flash() {
 		
 	}
+	
+	public void dsds() {
+		
+	}
 
 }
