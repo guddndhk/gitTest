@@ -19,8 +19,14 @@ public class Flash {
 		
 	}
 	
-	public void dsds() {
+	public void getFlash() {
 		
+		System.out.println("dsdsdsds1");
+		System.out.println("dsdsdsds2");
+		System.out.println("dsdsdsds3");
+		System.out.println("dsdsdsds4");
+		System.out.println("dsdsdsds5");
+		System.out.println("dsdsdsds6");
 	}
 
 }
