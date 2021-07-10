@@ -27,6 +27,7 @@ public class Flash {
 		System.out.println("dsdsdsds4");
 		System.out.println("dsdsdsds5");
 		System.out.println("dsdsdsds6");
+		System.out.println("dsdsdsds7");
 	}
 
 }
