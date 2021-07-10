@@ -31,7 +31,12 @@ public class Flash {
 	private int test3;
 	private int c;
 	private int c2;
-
+	
+	private int bb;
+	private int bb1;
+	private int bb3;
+	private int bb2;
+	
 	
 	private int test4;
 	private int zzz;
